@@ -52,6 +52,8 @@
     "express-session": "1.17.3",
     "express-static-gzip": "2.1.7",
     "fast-csv": "4.3.6",
+    "flowise-embed": "^2.0.1",
+    "flowise-embed-react": "^1.0.2",
     "fs-extra": "10.1.0",
     "handlebars": "4.7.7",
     "html-to-text": "8.2.0",
